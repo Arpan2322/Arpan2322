@@ -1,6 +1,5 @@
 ### arpandeep kaur.github.io
 #### personal information
-![IMG-20231227-WA0006](https://github.com/user-attachments/assets/c86f2236-7099-476e-a33c-d20e6355e7e2)
 
 my name is **arpandeep kaur** and i have completed my schooling from *PM shri jawahar navodaya vidyalaya mahian wala kalan ferozepur* and now i am **computer science** student in **guru nanak dev engineering college ludhiana**.
 #### email-**arpan.aks2322@gmail.com**
